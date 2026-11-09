@@ -2,7 +2,7 @@
 
 ### Saúde · Educação · Tecnologia
 
-Sou fisioterapeuta formada pela Universidade Federal de Uberlândia, Mestre pela UFU e docente de Fisioterapia. Minha trajetória reúne assistência domiciliar, pesquisa sobre marcha e mobilidade e formação de profissionais da saúde.
+Sou fisioterapeuta formada pela Universidade Federal de Uberlândia, Mestre em sistemas pela UFU e docente de Fisioterapia.Tenho formação em ADS e me interesso por gestão de processos e em saúde. Minha trajetória reúne assistência domiciliar, pesquisa sobre marcha e mobilidade e formação de profissionais da saúde.
 
 Neste portfólio, apresento projetos que conectam essa experiência ao uso de tecnologia na organização do conhecimento e na produção de materiais educacionais.
 
